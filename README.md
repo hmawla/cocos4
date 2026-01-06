@@ -103,6 +103,17 @@ If you are trying to make a pull request, some requirements must be met so that 
 - [Example Cases](https://github.com/cocos/cocos-example-projects): Simple yet expressive demo scenes for baseline testing and topic-specific case study.
 - [Awesome Cocos](https://github.com/cocos/awesome-cocos): You can find out other useful tools and show cases here.
 
+## Understanding the Engine
+
+New to COCOS 4? Check out our comprehensive documentation:
+
+- **[Documentation Index](docs/INDEX.md)** - Start here! Central hub for all documentation
+- **[Engine Architecture](docs/ENGINE_ARCHITECTURE.md)** - Deep dive into how the engine is designed
+- **[Core Components](docs/CORE_COMPONENTS.md)** - Detailed guide to all major components
+- **[Quick Reference](docs/QUICK_REFERENCE.md)** - Common tasks and code examples
+- **[Best Practices](docs/BEST_PRACTICES.md)** - Learn from the engine's design patterns
+- **[Contributing Guide](docs/CONTRIBUTING_GUIDE.md)** - How to contribute to the engine
+
 ## Links
 
 - [Official site](https://www.cocos.com/)
